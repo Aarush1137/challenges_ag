@@ -27,8 +27,8 @@ Welcome to the **Ultrasonic Sensor & Firebase Morse Code Challenge**! 🎉 Compl
 1. Connect your **Ultrasonic Sensor** to the **NodeMCU**:
    - 🟡 VCC to 3.3V
    - ⚫ GND to GND
-   - 🔵 Trig to D5
-   - 🔴 Echo to D6
+   - 🔵 Trig to D?(any D pin)
+   - 🔴 Echo to D?(any D pin)
 2. Upload your code to **NodeMCU** to read the distance.
 3. Open the **Serial Monitor** in the Arduino IDE and watch the magic happen! 🎩✨
 
